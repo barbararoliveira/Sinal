@@ -23,9 +23,10 @@ namespace Sinal
 
             else if (numero == 0)
                      Console.WriteLine("Zero.");
-
+            
+            Console.WriteLine ("Pressione enter para finalizar.");
             Console.ReadKey();
-
+            
         }
     }
 }
